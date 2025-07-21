@@ -47,7 +47,6 @@ This project implements a classification model using the Logistic Regression alg
 
 ## 📈 Sample Output
 
-python
 Enter a review to analyze: This product is amazing!
 
 ✅ Predicted Sentiment: Positive
@@ -80,7 +79,6 @@ Enter a review to analyze: Worst experience ever. Totally disappointed.
 
 ## Sample Output
 
-plaintext
 Accuracy: 0.87
 Confusion Matrix:
 [[50  5]
