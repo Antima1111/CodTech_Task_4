@@ -1,0 +1,11 @@
+label,message
+ham,"Hey, just wanted to check in with you about the meeting."
+spam,Congratulations! You have won a $500 Amazon gift card. Click to claim now.
+ham,Are we still on for dinner tonight?
+spam,Urgent! Your account has been suspended. Login to verify.
+ham,Let’s catch up over coffee tomorrow.
+spam,Winner! You have been selected for a free trip to Paris.
+ham,Please review the attached document and send feedback.
+spam,You’ve been chosen for a cash prize. Respond immediately.
+ham,Can we move the call to 4 PM instead of 3?
+spam,Your credit card limit has been increased. Apply here!
