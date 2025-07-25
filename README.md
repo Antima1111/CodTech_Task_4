@@ -32,7 +32,7 @@ spam_detection.ipynb – Jupyter notebook containing the model implementation an
 
 email_spam.csv - Sample dataset containing 10 emails and their labels (spam or ham).
 
-output.png - Screenshot showing model prediction output from the notebook.
+output.jpg and output2.jpg - Screenshot showing model prediction output from the notebook.
 
 
 ---
